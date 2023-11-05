@@ -10,6 +10,12 @@ Data preprocessing is included in src/models/predict_model.py
 
 In case of some problems use notebooks/2.0-final-solution.ipynb
 
+data and models folders are impossible to load through Git due to max file size restriction of 100 Mb
+
+data folder on Google Drive: https://drive.google.com/file/d/1DqZzqn-lrCZ7juvDgqyEj74YiHuA1_Ef/view?usp=sharing
+
+models folder on Google Drive: https://drive.google.com/file/d/1Y2W32EhxZeUhdKwW6NJYANlNe_LuD9Db/view?usp=sharing
+
 ## Task description
 
 Text Detoxification Task is a process of transforming the text with toxic style into the text with the same meaning but with neutral style.
